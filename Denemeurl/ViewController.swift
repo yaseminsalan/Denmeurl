@@ -44,8 +44,7 @@ class ViewController: UIViewController {
         formatter.dateFormat = "HH:mm:ss"
         let result = formatter.string(from: date)
         print(result)
-        print("asfgdfgdsy")
-        print("deneme")
+      
       
         
     }
